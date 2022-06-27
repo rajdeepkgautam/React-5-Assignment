@@ -1,0 +1,24 @@
+.Pure{
+    margin-left: 375px;
+    margin-right: 80px;
+}
+.Heading{
+    margin-left: 350px;
+}
+.example{
+    text-align: center;
+}
+.pureComp{
+    background-color:seagreen;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.HComplete{
+    background-color: aquamarine;
+    padding-bottom: 10px;
+
+}
+
+p {
+    font-size: 18px;
+  }
